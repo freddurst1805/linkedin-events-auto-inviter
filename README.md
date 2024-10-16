@@ -9,4 +9,4 @@ You'll have to follow these steps to proceed to use the plugin in Chrome :
 - Select the folder containing the manifest.json and other files.
 - Enjoy it !
 
-Link to the same plugin for Facebook : 
+Link to the same plugin for Facebook : https://github.com/freddurst1805/facebook-events-auto-inviter
